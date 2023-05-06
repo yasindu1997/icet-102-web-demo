@@ -17,3 +17,30 @@
     height: 300px;
     background-color: blue;
 }
+
+.my-btn{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 20px;
+
+    border: 5px solid green;
+
+    margin-left: 250px;
+    margin-bottom: 100px;
+    margin-right: 20px;
+}
+
+.last-para{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: fantasy;
+}
+
+.box1 {
+    width: 800px;
+    height: 100px;
+    background-color: red;
+    position: sticky;
+    top: 0px;
+}
